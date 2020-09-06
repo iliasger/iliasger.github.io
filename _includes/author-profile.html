@@ -40,7 +40,11 @@
       {% if author.links %}
         {% for link in author.links %}
           {% if link.label and link.url %}
-            <li><a target="_blank" href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i><span class="label">{{ link.label }}</span></a></li>
+            {% if link.label == "Google Scholar" %}
+              <li><a target="_blank" href="{{ link.url }}" rel="nofollow noopener noreferrer"><span class="scholar"></span><span class="label">Google Scholar</span></a></li>
+            {% else %}
+              <li><a target="_blank" href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i><span class="label">{{ link.label }}</span></a></li>
+            {% endif %}
           {% endif %}
         {% endfor %}
       {% endif %}
