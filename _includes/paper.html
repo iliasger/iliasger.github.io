@@ -2,7 +2,18 @@
     {{ include.authors }}
     <br><b>{{ include.title }}</b> <br>
     <i>{{ include.venue }}</i>
-    <br />
-    [<a href="{{ include.doi }}" target="_blank">DOI</a>]
-    [<a href="/{{ include.pdf | strip }}" target="_blank">PDF</a>]
+    <br/>
+    {% assign doi_stripped = include.doi | strip %}
+    {% if doi_stripped == "" %}
+        [DOI]
+    {% else %}
+        [<a href="{{ doi_stripped }}" target="_blank">DOI</a>]
+    {% endif %}
+    {% assign pdf_stripped = include.pdf | strip %}
+    {% if pdf_stripped == "" %}
+        [PDF]
+    {% else %}
+        [<a href="/{{ pdf_stripped }}" target="_blank">PDF</a>]
+<!--        [<a href="{{ pdf_stripped }}" target="_blank">DOI</a>]-->
+    {% endif %}
 </li>
