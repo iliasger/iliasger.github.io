@@ -1,0 +1,34 @@
+---
+layout: single
+---
+
+<div class="publications">
+    <ul class="biblist">
+
+        {% for publication in page.publications %}
+            {% capture publication_title} %}
+                {{ publication.title }}
+            {% endcapture %}
+            {% capture publication_authors} %}
+                {{ publication.authors }}
+            {% endcapture %}
+            {% capture publication_venue} %}
+                {{ publication.venue }}
+            {% endcapture %}
+            {% capture publication_doi} %}
+                {{ publication.doi }}
+            {% endcapture %}
+            {% capture publication_pdf} %}
+                {{ publication.pdf }}
+            {% endcapture %}
+            {% include paper.html
+                authors=publication_authors
+                title=publication_title
+                venue=publication_venue
+                doi=publication_doi
+                pdf=publication_pdf
+            %}
+        {% endfor %}
+
+    </ul>
+</div>

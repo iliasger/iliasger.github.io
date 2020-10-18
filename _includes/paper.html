@@ -1,0 +1,8 @@
+<li>
+    {{ include.authors }}
+    <br><b>{{ include.title }}</b> <br>
+    <i>{{ include.venue }}</i>
+    <br />
+    [<a href="{{ include.doi }}" target="_blank">DOI</a>]
+    [<a href="/{{ include.pdf | strip }}" target="_blank">PDF</a>]
+</li>
