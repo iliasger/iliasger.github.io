@@ -1,34 +1,59 @@
 ---
 layout: single
 ---
+<div class="regular-text">
 
-<div class="publications">
-    <ul class="biblist">
+    <select id = "myList" onchange="
+        if (this.value == 'all') {
+            $('.biblist li').show();
+        } else if (this.value == 'journals') {
+            $('.biblist li').hide().filter('[type=journals]').show();
+        } else if (this.value == 'conferences') {
+            $('.biblist li').hide().filter('[type=conferences]').show();
+        } else if (this.value == 'workshopsSpecialTracks') {
+            $('.biblist li').hide().filter('[type=workshopsSpecialTracks]').show();
+        } else if (this.value == 'bookChapters') {
+            $('.biblist li').hide().filter('[type=bookChapters]').show();
+        }
+    ">
+        <option value = "all">ALL</option>
+        <option value = "journals">Journals</option>
+        <option value = "conferences">Conferences</option>
+        <option value = "workshopsSpecialTracks">Workshops and Special Tracks</option>
+        <option value = "bookChapters">Book Chapters</option>
+    </select>
 
-        {% for publication in page.publications %}
-            {% capture publication_title} %}
-                {{ publication.title }}
-            {% endcapture %}
-            {% capture publication_authors} %}
-                {{ publication.authors }}
-            {% endcapture %}
-            {% capture publication_venue} %}
-                {{ publication.venue }}
-            {% endcapture %}
-            {% capture publication_doi} %}
-                {{ publication.doi }}
-            {% endcapture %}
-            {% capture publication_pdf} %}
-                {{ publication.pdf }}
-            {% endcapture %}
-            {% include paper.html
-                authors=publication_authors
-                title=publication_title
-                venue=publication_venue
-                doi=publication_doi
-                pdf=publication_pdf
-            %}
-        {% endfor %}
+    <div id="all">
+        <ol class="biblist" reversed>
 
-    </ul>
+            {% for publication in page.publications %}
+                {% capture publication_title %}
+                    {{ publication.title }}
+                {% endcapture %}
+                {% capture publication_authors %}
+                    {{ publication.authors }}
+                {% endcapture %}
+                {% capture publication_venue %}
+                    {{ publication.venue }}
+                {% endcapture %}
+                {% capture publication_doi %}
+                    {{ publication.doi }}
+                {% endcapture %}
+                {% capture publication_pdf %}
+                    {{ publication.pdf }}
+                {% endcapture %}
+                {% capture publication_type %}
+                    {{publication.type}}
+                {% endcapture %}
+                {% include paper.html
+                    authors=publication_authors
+                    title=publication_title
+                    venue=publication_venue
+                    doi=publication_doi
+                    pdf=publication_pdf
+                    type=publication_type
+                %}
+            {% endfor %}
+        </ol>
+    </div>
 </div>
