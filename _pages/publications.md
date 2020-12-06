@@ -3,7 +3,14 @@ permalink: /publications/
 title: "Publications"
 layout: publications
 publications:
-  - title: "A Toolbox for Realtime Timeseries Anomaly Detection"
+  - title: "Managing Latency in Edge-Cloud Environment"
+    authors: Lubomir Bulej, Tomas Bures, Adam Filandr, Petr Hnetynka, Iveta Hnetynkova, Jan Pacovsky, Gabor Sandor, Ilias Gerostathopoulos
+    venue: "Elsevier's Journal of Systems and Software (JSS), Volume 172, February 2021"
+    doi: https://www.sciencedirect.com/science/article/abs/pii/S0164121220302624
+    pdf: pubs/2020-JSS-Edge-Cloud.pdf
+    year: 2021
+    type: journals
+  - title: "Forming Ensembles at Runtime: A Machine Learning Approach"
     authors: Tomas Bures, Ilias Gerostathopoulos, Petr Hnetynka, Jan Pacovsky
     venue: "9th International Symposium On Leveraging Applications of Formal Methods, Verification and Validation (ISOLA 2020)"
     doi: https://doi-org.vu-nl.idm.oclc.org/10.1007/978-3-030-61470-6_26
