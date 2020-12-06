@@ -20,28 +20,28 @@ publications:
   - title: "A Toolbox for Realtime Timeseries Anomaly Detection"
     authors: Markus Bobel, Ilias Gerostathopoulos, Tomas Bures
     venue: "IEEE International Conference on Software Architecture (ICSA 2020), to appear."
-    doi: 
+    doi: https://doi-org.vu-nl.idm.oclc.org/10.1109/ICSA-C50368.2020.00053
     pdf: pubs/ICSA2020-tool.pdf
     year: 2020
     type: conferences
   - title: "Engineering for a Science-Centric Experimentation Platform"
     authors: Nikos Diamantopoulos, Jeffrey Wong, David Issa Mattos, Ilias Gerostathopoulos, Matthew Wardrop, Tobias Mao, Colin McFarland
     venue: "42nd International Conference on Software Engineering (ICSE 2020), to appear."
-    doi: 
+    doi: https://doi-org.vu-nl.idm.oclc.org/10.1145/3377813.3381349
     pdf: pubs/ICSE-SEIP-2020.pdf
     year: 2020
     type: conferences
   - title: "Using Component Ensembles for Modeling Autonomic Component Collaboration in Smart Farming"
     authors: Petr Hnetynka, Tomas Bures, Ilias Gerostathopoulos, Jan Pacovsky
     venue: "15th Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2020), to appear."
-    doi: 
+    doi: https://doi-org.vu-nl.idm.oclc.org/10.1145/3387939.3391599
     pdf: pubs/SEAMS-2020-SmartFarming.pdf
     year: 2020
     type: conferences
   - title: "Knowledge Aggregation with Subjective Logic in Multi-Agent Self-Adaptive Cyber-Physical Systems"
     authors: Ana Petrovska, Sergio Quijano, Ilias Gerostathopoulos, Alexander Pretschner
     venue: "15th Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2020), to appear."
-    doi: 
+    doi: https://doi-org.vu-nl.idm.oclc.org/10.1145/3387939.3391600
     pdf: pubs/SEAMS-2020-SubjectiveLogic.pdf
     year: 2020
     type: conferences
@@ -55,7 +55,7 @@ publications:
   - title: "A Language and Framework for Dynamic Component Ensembles in Smart Systems"
     authors: Tomas Bures, Ilias Gerostathopoulos, Petr Hnetynka, Frantisek Plasil, Filip Krijt, Jiri Vinarek, Jan Kofron
     venue: "Springer's Software Tools for Technology Transfer (STTT), in print"
-    doi: 
+    doi: https://doi-org.vu-nl.idm.oclc.org/10.1007/s10009-020-00558-z
     pdf: pubs/STTT-TCOEF-Feb2020.pdf
     year: 2020
     type: journals
@@ -76,49 +76,49 @@ publications:
   - title: "Adaptable Anomaly Detection in Traffic Flow Time Series"
     authors: Md Rakibul Alam, Ilias Gerostathopoulos, Sasan Amini, Christian Prehofer, Alessandro Attanasi
     venue: "6th International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS 2019), to appear."
-    doi: 
+    doi: https://doi-org.vu-nl.idm.oclc.org/10.1109/MTITS.2019.8883338 
     pdf: pubs/mt_its_2019.pdf
     year: 2019
     type: conferences
   - title: "A Framework for Tunable Anomaly Detection"
     authors: Md Rakibul Alam, Ilias Gerostathopoulos, Christian Prehofer, Alessandro Attanasi, Tomas Bures
     venue: "IEEE International Conference on Software Architecture (ICSA 2019), to appear."
-    doi: 
+    doi: https://doi-org.vu-nl.idm.oclc.org/10.1109/ICSA.2019.00029
     pdf: pubs/ICSA19-AnomalyDetection-camera-ready.pdf
     year: 2019
     type: conferences
   - title: "TRAPPed in Traffic? A Self-Adaptive Framework for Decentralized Traffic Optimization"
     authors: Ilias Gerostathopoulos, Evangelos Pournaras
     venue: "14th Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2019), to appear."
-    doi: 
+    doi: https://doi-org.vu-nl.idm.oclc.org/10.1109/SEAMS.2019.00014
     pdf: pubs/SEAMS19-EPOS-SUMO.pdf
     year: 2019
     type: conferences
   - title: "Planning as Optimization: Dynamically Discovering Optimal Configurations for Runtime Situations"
     authors: Erik Fredericks, Ilias Gerostathopoulos, Christian Krupitzer, Thomas Vogel
     venue: "13th IEEE International Conference on Self-Adaptive and Self-Organizing Systems (SASO 2019), to appear."
-    doi: 
+    doi: https://doi-ieeecomputersociety-org.vu-nl.idm.oclc.org/10.1109/SASO.2019.00010
     pdf: pubs/SASO19-Planning_as_Optimization.pdf
     year: 2019
     type: conferences
   - title: "Can Today's Machine Learning Pass Image-Based Turing Tests?"
     authors: Apostolis Zarras, Ilias Gerostathopoulos, Daniel Mendez Fernandez
     venue: "22nd Information Security Conference (ISC 2019), to appear."
-    doi: 
+    doi: https://doi-org.vu-nl.idm.oclc.org/10.1007/978-3-030-30215-3_7
     pdf: pubs/CAPTCHA-2019.pdf
     year: 2019
     type: conferences
   - title: "Continuous Data-driven Software Engineering - Towards a Research Agenda"
     authors: Ilias Gerostathopoulos, Marco Konersmann, Stephan Krusche, David I. Mattos, Jan Bosch, Tomas Bures, Brian Fitzgerald, Michael Goedicke, Henry Muccini, Helena H. Olsson, Thomas Brand, Robert Chatley, Nikolaos Diamantopoulos, Arik Friedman, Miguel Jimenez, Jan Ole Johanssen, Putra Manggala, Masumi Koseki, Jorge Melegati, Nuthan Munaiah, Gabriel Tamura, Vasileios Theodorou, Jeffrey Wong, Iris Figalist
     venue: "Software Engineering Notes (SEN), to appear."
-    doi: 
+    doi: https://doi-org.vu-nl.idm.oclc.org/10.1145/3356773.3356811
     pdf: pubs/report-SEN-RCoSE-DDrEE-2019.pdf
     year: 2019
     type: conferences
   - title: "Automated Trainability Evaluation for Smart Software Functions"
     authors: Ilias Gerostathopoulos, Stefan Kugele, Christoph Segler, Tomas Bures, Alois Knoll
     venue: "34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019), to appear."
-    doi: 
+    doi: https://doi-org.vu-nl.idm.oclc.org/10.1109/ASE.2019.00096 
     pdf: pubs/ASE_NIER-final.pdf
     year: 2019
     type: conferences
