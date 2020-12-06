@@ -181,7 +181,7 @@ publications:
   - title: "Designing Flink Pipelines in IoT Mashup Tools"
     authors: Tanmaya Mahapatra, Ilias Gerostathopoulos, Federico Alonso Fernandez Moreno, Christian Prehofer
     venue: "4th Norwegian Big Data Symposium (NOBIDS) 2018, to appear."
-    doi: 
+    doi: http://ceur-ws.org/Vol-2316/paper3.pdf
     pdf: pubs/2018-afluxFlink.pdf
     year: 2018
     type: workshopsSpecialTracks
