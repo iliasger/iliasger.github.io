@@ -4,6 +4,13 @@ title: "Publications"
 layout: publications
 publications:
   - title: "A Toolbox for Realtime Timeseries Anomaly Detection"
+    authors: Tomas Bures, Ilias Gerostathopoulos, Petr Hnetynka, Jan Pacovsky
+    venue: "9th International Symposium On Leveraging Applications of Formal Methods, Verification and Validation (ISOLA 2020)"
+    doi: https://doi-org.vu-nl.idm.oclc.org/10.1007/978-3-030-61470-6_26
+    pdf: pubs/2020-ISOLA.pdf
+    year: 2020
+    type: conferences
+  - title: "A Toolbox for Realtime Timeseries Anomaly Detection"
     authors: Markus Bobel, Ilias Gerostathopoulos, Tomas Bures
     venue: "IEEE International Conference on Software Architecture (ICSA 2020), to appear."
     doi: 
