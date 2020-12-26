@@ -3,6 +3,13 @@ permalink: /publications/
 title: "Publications"
 layout: publications
 publications:
+  - title: "Online Experiment-Driven Learning and Adaptation"
+    authors: Ilias Gerostathopoulos, Alexander Auf der Strasse 
+    venue: "Model-Based Engineering of Collaborative Embedded Systems, Springer"
+    doi: https://doi.org/10.1007/978-3-030-62136-0_15
+    pdf: pubs/2021-Crest-book-chapter.pdf
+    year: 2021
+    type: bookChapters
   - title: "Managing Latency in Edge-Cloud Environment"
     authors: Lubomir Bulej, Tomas Bures, Adam Filandr, Petr Hnetynka, Iveta Hnetynkova, Jan Pacovsky, Gabor Sandor, Ilias Gerostathopoulos
     venue: "Elsevier's Journal of Systems and Software (JSS), Volume 172, February 2021"
