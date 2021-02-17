@@ -3,6 +3,20 @@ permalink: /publications/
 title: "Publications"
 layout: publications
 publications:
+  - title: "MEDAL: An AI-driven Data Fabric Concept for Elastic Cloud-to-Edge Intelligence"
+    authors: Vasileios Theodorou, Ilias Gerostathopoulos, Iyad Alshabani, Alberto Abello and David Breitgand
+    venue: " 3rd International Workshop on Multi-Clouds and Mobile Edge Computing"
+    doi: 
+    pdf: 
+    year: 2021
+    type: workshopsSpecialTracks
+  - title: "Decentralized Optimization of Vehicle Route Planning - A Cross-City Comparative Study"
+    authors: Brionna Davis, Grace Jennings, Taylor Pothast, Ilias Gerostathopoulos, Evangelos Pournaras, Raphael Stern 
+    venue: "IEEE Internet Computing"
+    doi: https://doi.ieeecomputersociety.org/10.1109/MIC.2021.3058928
+    pdf: 
+    year: 2021
+    type: journals
   - title: "Online Experiment-Driven Learning and Adaptation"
     authors: Ilias Gerostathopoulos, Alexander Auf der Strasse 
     venue: "Model-Based Engineering of Collaborative Embedded Systems, Springer"
