@@ -21,7 +21,7 @@ publications:
     authors: Ana Petrovska, Malte Neuss, Ilias Gerostathopoulos, Alexander Pretschner
     venue: "16th Symposium on Software Engineering for Adaptive and Self-Managing Systems"
     doi: 
-    pdf: 
+    pdf: 2021-SEAMS-IG-SubjectiveLogic.pdf
     year: 2021
     type: conferences
   - title: "MEDAL: An AI-driven Data Fabric Concept for Elastic Cloud-to-Edge Intelligence"
