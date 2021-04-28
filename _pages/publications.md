@@ -3,6 +3,13 @@ permalink: /publications/
 title: "Publications"
 layout: publications
 publications:
+  - title: "Automated Online Experiment-Driven Adaptation–Mechanics and Cost Aspects"
+    authors: Ilias Gerostathopoulos, Frantisek Plasil, Christian Prehofer, Janek Thomas, Bernd Bischl
+    venue: "IEEE Access"
+    doi: https://doi.org/10.1109/ACCESS.2021.3071809 
+    pdf: pubs/2021-IEEEAccess-IG-AOEDA.pdf
+    year: 2021
+    type: journals
   - title: "Characterizing Technical Debt and Antipatterns in AI-Based Systems: A Systematic Mapping Study"
     authors: Justus Bogner, Roberto Verdecchia, Ilias Gerostathopoulos
     venue: "International Conference on Technical Debt 2021"
