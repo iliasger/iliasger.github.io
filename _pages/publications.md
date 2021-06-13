@@ -3,6 +3,13 @@ permalink: /publications/
 title: "Publications"
 layout: publications
 publications:
+  - title: "Aspect-Oriented Adaptation of Access Control Rules"
+    authors: Tomas Bures, Ilias Gerostathopoulos, Petr Hnetynka, Stephan Seifermann, Maximilian Walter, and Robert Heinrich
+    venue: "Euromicro Conference Series on Software Engineering and Advanced Applications"
+    doi:  
+    pdf: 
+    year: 2021
+    type: conferences
   - title: "Automated Online Experiment-Driven Adaptation–Mechanics and Cost Aspects"
     authors: Ilias Gerostathopoulos, Frantisek Plasil, Christian Prehofer, Janek Thomas, Bernd Bischl
     venue: "IEEE Access"
