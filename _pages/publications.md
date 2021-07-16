@@ -3,11 +3,18 @@ permalink: /publications/
 title: "Publications"
 layout: publications
 publications:
+  - title: "Towards a Taxonomy of Autonomous Systems"
+    authors: Stefan Kugele, Ana Petrovska, Ilias Gerostathopoulos
+    venue: "15th European Conference on Software Architecture"
+    doi:  
+    pdf: pubs/2021-ECSA-IG-TaxonomyForAutonomousSystems.pdf
+    year: 2021
+    type: conferences
   - title: "Aspect-Oriented Adaptation of Access Control Rules"
     authors: Tomas Bures, Ilias Gerostathopoulos, Petr Hnetynka, Stephan Seifermann, Maximilian Walter, and Robert Heinrich
     venue: "Euromicro Conference Series on Software Engineering and Advanced Applications"
     doi:  
-    pdf: 
+    pdf: pubs/2021-SEAA-IG-AspectsAdaptationControlRules.pdf
     year: 2021
     type: conferences
   - title: "Automated Online Experiment-Driven Adaptation–Mechanics and Cost Aspects"
