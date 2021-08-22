@@ -3,6 +3,13 @@ permalink: /publications/
 title: "Publications"
 layout: publications
 publications:
+  - title: "Targeting Uncertainty in Smart CPS by Confidence-Based Logic"
+    authors: Tomas Bures, Petr Hnetynka, Dominik Skoda, Jan Kofron, Rima Al Ali, Ilias Gerostathopoulos
+    venue: "Elsevier's Journal of Systems and Software (JSS), in press"
+    doi: 
+    pdf: pubs/2021-JSS-IG-extended-modes.pdf
+    year: 2021
+    type: journals
   - title: "Towards a Taxonomy of Autonomous Systems"
     authors: Stefan Kugele, Ana Petrovska, Ilias Gerostathopoulos
     venue: "15th European Conference on Software Architecture"
@@ -11,7 +18,7 @@ publications:
     year: 2021
     type: conferences
   - title: "Aspect-Oriented Adaptation of Access Control Rules"
-    authors: Tomas Bures, Ilias Gerostathopoulos, Petr Hnetynka, Stephan Seifermann, Maximilian Walter, and Robert Heinrich
+    authors: Tomas Bures, Ilias Gerostathopoulos, Petr Hnetynka, Stephan Seifermann, Maximilian Walter, Robert Heinrich
     venue: "Euromicro Conference Series on Software Engineering and Advanced Applications"
     doi:  
     pdf: pubs/2021-SEAA-IG-AspectsAdaptationControlRules.pdf
