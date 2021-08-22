@@ -6,7 +6,7 @@ publications:
   - title: "Targeting Uncertainty in Smart CPS by Confidence-Based Logic"
     authors: Tomas Bures, Petr Hnetynka, Dominik Skoda, Jan Kofron, Rima Al Ali, Ilias Gerostathopoulos
     venue: "Elsevier's Journal of Systems and Software (JSS), in press"
-    doi: 
+    doi:  
     pdf: pubs/2021-JSS-IG-extended-modes.pdf
     year: 2021
     type: journals
