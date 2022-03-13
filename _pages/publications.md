@@ -3,6 +3,13 @@ permalink: /publications/
 title: "Publications"
 layout: publications
 publications:
+  - title: "Assessing Self-Adaptation Strategies Using Cost-Benefit Analysis"
+    authors: Ilias Gerostathopoulos, Claudia Raibulet, Elvin Alberts
+    venue: "IEEE International Conference on Software Architecture Companion (ICSA 2022)"
+    doi:  
+    pdf: pubs/2022-ICSA-IG-AdaptationStrategiesCostBenefit.pdf
+    year: 2022
+    type: conferences
   - title: "Targeting Uncertainty in Smart CPS by Confidence-Based Logic"
     authors: Tomas Bures, Petr Hnetynka, Dominik Skoda, Jan Kofron, Rima Al Ali, Ilias Gerostathopoulos
     venue: "Elsevier's Journal of Systems and Software (JSS), in press"
