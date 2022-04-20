@@ -3,6 +3,13 @@ permalink: /publications/
 title: "Publications"
 layout: publications
 publications:
+  - title: "Expressing the Adaptation Intent as a Sustainability Goal"
+    authors: Ilias Gerostathopoulos, Claudia Raibulet, Patricia Lago
+    venue: "IEEE International Conference on Software Engineering Companion (ICSE 2022)"
+    doi:  
+    pdf: pubs/2022-ICSE-IG-AdaptationIntentAsSustainabilityGoal.pdf
+    year: 2022
+    type: conferences
   - title: "Assessing Self-Adaptation Strategies Using Cost-Benefit Analysis"
     authors: Ilias Gerostathopoulos, Claudia Raibulet, Elvin Alberts
     venue: "IEEE International Conference on Software Architecture Companion (ICSA 2022)"
