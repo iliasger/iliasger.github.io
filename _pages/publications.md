@@ -3,6 +3,20 @@ permalink: /publications/
 title: "Publications"
 layout: publications
 publications:
+  - title: "Preliminary Results of a Survey on the Use of Self-Adaptation in Industry"
+    authors: Danny Weyns, Ilias Gerostathopoulos, Nadeem Abbas, Jesper Andersson, Stefan Biffl, Premek Brada, Tomas Bures, Amleto Di Salle, Patricia Lago, Angelika Musil, Juergen Musil, Patrizio Pelliccione
+    venue: "17th Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2022)"
+    doi:  
+    pdf: pubs/2022-SEAMS-Survey_SAS_in_Industry.pdf
+    year: 2022
+    type: conferences 
+  - title: "EmergentWeb Server: An Exemplar to Explore Online Learning in Compositional Self-Adaptive Systems"
+    authors: Roberto Rodrigues Filho, Elvin Alberts, Ilias Gerostathopoulos, Barry Porter, Fábio M. Costa
+    venue: "17th Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2022)"
+    doi:  
+    pdf: pubs/2022-SEAMS-EWS.pdf
+    year: 2022
+    type: conferences
   - title: "Expressing the Adaptation Intent as a Sustainability Goal"
     authors: Ilias Gerostathopoulos, Claudia Raibulet, Patricia Lago
     venue: "IEEE International Conference on Software Engineering Companion (ICSE 2022)"
