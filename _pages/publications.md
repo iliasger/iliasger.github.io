@@ -10,7 +10,7 @@ publications:
     pdf: pubs/2022-SEAMS-Survey_SAS_in_Industry.pdf
     year: 2022
     type: conferences 
-  - title: "EmergentWeb Server: An Exemplar to Explore Online Learning in Compositional Self-Adaptive Systems"
+  - title: "Emergent Web Server: An Exemplar to Explore Online Learning in Compositional Self-Adaptive Systems"
     authors: Roberto Rodrigues Filho, Elvin Alberts, Ilias Gerostathopoulos, Barry Porter, Fábio M. Costa
     venue: "17th Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2022)"
     doi:  
@@ -32,7 +32,7 @@ publications:
     year: 2022
     type: conferences
   - title: "Targeting Uncertainty in Smart CPS by Confidence-Based Logic"
-    authors: Tomas Bures, Petr Hnetynka, Dominik Skoda, Jan Kofron, Rima Al Ali, Ilias Gerostathopoulos
+    authors: Tomas Bures, Petr Hnetynka, Frantisek Plasil, Dominik Skoda, Jan Kofron, Rima Al Ali, Ilias Gerostathopoulos
     venue: "Elsevier's Journal of Systems and Software (JSS), in press"
     doi:  
     pdf: pubs/2021-JSS-IG-extended-modes.pdf
