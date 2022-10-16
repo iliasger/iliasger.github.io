@@ -3,52 +3,73 @@ permalink: /publications/
 title: "Publications"
 layout: publications
 publications:
+  - title: "Measuring Convergence Inertia: Online Learning in Self-Adaptive Systems with Context Shifts"
+    authors: Elvin Alberts, Ilias Gerostathopoulos
+    venue: "International Symposium On Leveraging Applications of Formal Methods, Verification and Validation (ISOLA 2022)"
+    doi:  
+    pdf: pubs/2022-ISOLA-Inertia.pdf
+    year: 2022
+    type: conferences
+  - title: "MockSAS: Facilitating the Evaluation of Bandit Algorithms in Self-Adaptive Systems"
+    authors: Elvin Alberts, Ilias Gerostathopoulos, Tomas Bures
+    venue: "16th European Conference on Software Architecture Companion (ECSA 2022)"
+    doi:  
+    pdf: pubs/2022-ECSA-CASA-MockSAS.pdf
+    year: 2022
+    type: workshopsSpecialTracks
+  - title: "Guidelines for Artifacts to Support Industry-Relevant Research on Self-Adaptation"
+    authors: Danny Weyns, Ilias Gerostathopoulos, Barbora Buhnova, Nicolás Cardozo, Emilia Cioroaica, Ivana Dusparic, Lars Grunske, Pooyan Jamshidi, Christine Julien, Judith Michael, Gabriel Moreno, Shiva Nejati, Patrizio Pelliccione, Federico Quin, Genaina Rodrigues, Bradley Schmerl, Marco Vieira, Thomas Vogel, Rebekka Wohlrab
+    venue: "ACM SIGSOFT Software Engineering Notes, Volume 47, Issue 4"
+    doi: https://doi.org/10.1145/3561846.3561852
+    pdf: pubs/2022-SIGSOFT-GuidelinesForSEAMSArtifacts.pdf
+    year: 2022
+    type: workshopsSpecialTracks
   - title: "Preliminary Results of a Survey on the Use of Self-Adaptation in Industry"
     authors: Danny Weyns, Ilias Gerostathopoulos, Nadeem Abbas, Jesper Andersson, Stefan Biffl, Premek Brada, Tomas Bures, Amleto Di Salle, Patricia Lago, Angelika Musil, Juergen Musil, Patrizio Pelliccione
     venue: "17th Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2022)"
-    doi:  
+    doi: https://doi.org/10.1145/3524844.3528077 
     pdf: pubs/2022-SEAMS-Survey_SAS_in_Industry.pdf
     year: 2022
     type: conferences 
   - title: "Emergent Web Server: An Exemplar to Explore Online Learning in Compositional Self-Adaptive Systems"
     authors: Roberto Rodrigues Filho, Elvin Alberts, Ilias Gerostathopoulos, Barry Porter, Fábio M. Costa
     venue: "17th Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2022)"
-    doi:  
+    doi: https://doi.org/10.1145/3524844.3528079 
     pdf: pubs/2022-SEAMS-EWS.pdf
     year: 2022
     type: conferences
   - title: "Expressing the Adaptation Intent as a Sustainability Goal"
     authors: Ilias Gerostathopoulos, Claudia Raibulet, Patricia Lago
     venue: "IEEE International Conference on Software Engineering Companion (ICSE 2022)"
-    doi:  
+    doi: https://doi.org/10.1145/3510455.3512776 
     pdf: pubs/2022-ICSE-IG-AdaptationIntentAsSustainabilityGoal.pdf
     year: 2022
     type: conferences
   - title: "Assessing Self-Adaptation Strategies Using Cost-Benefit Analysis"
     authors: Ilias Gerostathopoulos, Claudia Raibulet, Elvin Alberts
     venue: "IEEE International Conference on Software Architecture Companion (ICSA 2022)"
-    doi:  
+    doi: https://doi.org/10.1109/ICSA-C54293.2022.00023 
     pdf: pubs/2022-ICSA-IG-AdaptationStrategiesCostBenefit.pdf
     year: 2022
     type: conferences
   - title: "Targeting Uncertainty in Smart CPS by Confidence-Based Logic"
     authors: Tomas Bures, Petr Hnetynka, Frantisek Plasil, Dominik Skoda, Jan Kofron, Rima Al Ali, Ilias Gerostathopoulos
     venue: "Elsevier's Journal of Systems and Software (JSS), in press"
-    doi:  
+    doi: https://doi.org/10.1016/j.jss.2021.111065 
     pdf: pubs/2021-JSS-IG-extended-modes.pdf
     year: 2021
     type: journals
   - title: "Towards a Taxonomy of Autonomous Systems"
     authors: Stefan Kugele, Ana Petrovska, Ilias Gerostathopoulos
     venue: "15th European Conference on Software Architecture"
-    doi:  
+    doi: https://doi.org/10.1007/978-3-030-86044-8_3 
     pdf: pubs/2021-ECSA-IG-TaxonomyForAutonomousSystems.pdf
     year: 2021
     type: conferences
   - title: "Aspect-Oriented Adaptation of Access Control Rules"
     authors: Tomas Bures, Ilias Gerostathopoulos, Petr Hnetynka, Stephan Seifermann, Maximilian Walter, Robert Heinrich
     venue: "Euromicro Conference Series on Software Engineering and Advanced Applications"
-    doi:  
+    doi: https://doi.org/10.1109/SEAA53835.2021.00054 
     pdf: pubs/2021-SEAA-IG-AspectsAdaptationControlRules.pdf
     year: 2021
     type: conferences
@@ -82,8 +103,8 @@ publications:
     type: conferences
   - title: "MEDAL: An AI-driven Data Fabric Concept for Elastic Cloud-to-Edge Intelligence"
     authors: Vasileios Theodorou, Ilias Gerostathopoulos, Iyad Alshabani, Alberto Abello and David Breitgand
-    venue: " 3rd International Workshop on Multi-Clouds and Mobile Edge Computing"
-    doi: 
+    venue: "3rd International Workshop on Multi-Clouds and Mobile Edge Computing"
+    doi: https://arxiv.org/abs/2102.13125
     pdf: 
     year: 2021
     type: workshopsSpecialTracks
