@@ -3,6 +3,13 @@ permalink: /publications/
 title: "Publications"
 layout: publications
 publications:
+  - title: "Evolvability of Machine Learning-based Systems: An Architectural Design Decision Framework"
+    authors: Joran Leest, Ilias Gerostathopoulos, Claudia Raibulet
+    venue: "20th International Conference on Software Architecture (ICSA 2022)"
+    doi:  
+    pdf: pubs/2023-ICSA-Evolvability.pdf
+    year: 2023
+    type: conferences
   - title: "Measuring Convergence Inertia: Online Learning in Self-Adaptive Systems with Context Shifts"
     authors: Elvin Alberts, Ilias Gerostathopoulos
     venue: "International Symposium On Leveraging Applications of Formal Methods, Verification and Validation (ISOLA 2022)"
