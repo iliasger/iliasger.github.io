@@ -3,6 +3,13 @@ permalink: /publications/
 title: "Publications"
 layout: publications
 publications:
+  - title: "Self-Adaptation in Industry: A Survey"
+    authors: Danny Weyns, Ilias Gerostathopoulos, Nadeem Abbas, Jesper Andersson, Stefan Biffl, Premek Brada, Tomas Bures, Amleto Di Salle, Matthias Galster, Patricia Lago, Grace Lewis, Marin Litoiu, Angelika Musil, Juergen Musil, Panos Patros, Patrizio Pelliccione
+    venue: "ACM Transactions on Autonomous and Adaptive Systems (TAAS), Accepted in March 2023"
+    doi: https://doi.acm.org/?doi=3589227  
+    pdf: pubs/2023-TAAS-SASinINDUSTRY.pdf
+    year: 2023
+    type: journals
   - title: "Evolvability of Machine Learning-based Systems: An Architectural Design Decision Framework"
     authors: Joran Leest, Ilias Gerostathopoulos, Claudia Raibulet
     venue: "20th International Conference on Software Architecture (ICSA 2022)"
