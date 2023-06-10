@@ -3,6 +3,13 @@ permalink: /publications/
 title: "Publications"
 layout: publications
 publications:
+  - title: "SUAVE: An Exemplar for Self-Adaptive Underwater Vehicles"
+    authors: Gustavo Rezende Silva, Juliane Passler, Jeroen Zwanepol, Elvin Alberts, S. Lizeth Tapia Tarifa, Ilias Gerostathopoulos, Einar Broch Johnsen, Carlos Hernandez Corbato
+    venue: "18th Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2023)"
+    doi: 
+    pdf: pubs/2023-SEAMS-artifact-SUAVE.pdf
+    year: 2023
+    type: conferences
   - title: "Self-Adaptation in Industry: A Survey"
     authors: Danny Weyns, Ilias Gerostathopoulos, Nadeem Abbas, Jesper Andersson, Stefan Biffl, Premek Brada, Tomas Bures, Amleto Di Salle, Matthias Galster, Patricia Lago, Grace Lewis, Marin Litoiu, Angelika Musil, Juergen Musil, Panos Patros, Patrizio Pelliccione
     venue: "ACM Transactions on Autonomous and Adaptive Systems (TAAS), Accepted in March 2023"
@@ -12,7 +19,7 @@ publications:
     type: journals
   - title: "Evolvability of Machine Learning-based Systems: An Architectural Design Decision Framework"
     authors: Joran Leest, Ilias Gerostathopoulos, Claudia Raibulet
-    venue: "20th International Conference on Software Architecture (ICSA 2022)"
+    venue: "20th International Conference on Software Architecture (ICSA 2023)"
     doi:  
     pdf: pubs/2023-ICSA-Evolvability.pdf
     year: 2023
