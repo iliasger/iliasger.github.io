@@ -3,6 +3,13 @@ permalink: /publications/
 title: "Publications"
 layout: publications
 publications:
+  - title: "What’s next in my backlog? Time series analysis of user reviews"
+    authors: Goran H. Stronstad, Ilias Gerostathopoulos, Emitza Guzman
+    venue: "8th International Workshop on Empirical Requirements Engineering 2023 (EmpiRE 2023)"
+    doi:
+    pdf: pubs/2023-EmpiRE.pdf
+    year: 2023
+    type: workshopsSpecialTracks
   - title: "SUAVE: An Exemplar for Self-Adaptive Underwater Vehicles"
     authors: Gustavo Rezende Silva, Juliane Passler, Jeroen Zwanepol, Elvin Alberts, S. Lizeth Tapia Tarifa, Ilias Gerostathopoulos, Einar Broch Johnsen, Carlos Hernandez Corbato
     venue: "18th Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2023)"
