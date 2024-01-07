@@ -17,3 +17,9 @@ span.scholar {
 .regular-text {
   font-size: 14px;
 }
+
+@media (min-width: 64em) {
+  .sidebar {
+    opacity: 1;
+  }
+}
